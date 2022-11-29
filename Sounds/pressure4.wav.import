@@ -1,0 +1,21 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/pressure4.wav-a6e9adffd5ac57646b8326c767348bf3.sample"
+
+[deps]
+
+source_file="res://Sounds/pressure4.wav"
+dest_files=[ "res://.import/pressure4.wav-a6e9adffd5ac57646b8326c767348bf3.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop=false
+compress/mode=0

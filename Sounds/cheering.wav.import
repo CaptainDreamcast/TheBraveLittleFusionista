@@ -1,0 +1,21 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/cheering.wav-5e32357248f4d1b068ca3acd94005649.sample"
+
+[deps]
+
+source_file="res://Sounds/cheering.wav"
+dest_files=[ "res://.import/cheering.wav-5e32357248f4d1b068ca3acd94005649.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop=true
+compress/mode=0

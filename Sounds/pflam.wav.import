@@ -1,0 +1,21 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/pflam.wav-2516b1c1636164be74684c59f5ee7eed.sample"
+
+[deps]
+
+source_file="res://Sounds/pflam.wav"
+dest_files=[ "res://.import/pflam.wav-2516b1c1636164be74684c59f5ee7eed.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop=false
+compress/mode=0

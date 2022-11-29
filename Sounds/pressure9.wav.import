@@ -1,0 +1,21 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/pressure9.wav-0fc7cc7e6620f9b2f589eeb834a21151.sample"
+
+[deps]
+
+source_file="res://Sounds/pressure9.wav"
+dest_files=[ "res://.import/pressure9.wav-0fc7cc7e6620f9b2f589eeb834a21151.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop=false
+compress/mode=0
